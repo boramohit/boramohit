@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @boramohit
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning msc cs 
-- 💞️ I’m looking to collaborate on internship 
+- 🌱 I had completed msc cs. 
+- 💞️ I’m looking to collaborate on new projects
+- Currently learning MERN stack course.
+- open for job.  
 - 📫 How to reach me 9552641478 WhatsApp number 
 
 <!---
